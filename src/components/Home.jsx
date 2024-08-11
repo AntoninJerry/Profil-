@@ -44,9 +44,9 @@ const Home = () => {
                         </motion.div>
                     </a>
                     <div className="flex space-x-8 mt-4">
-                        <a href="https://github.com/AntoninJerry"><FaGithub size={24} className="text-2xl hover:text-gray-400" /></a>
-                        <a href="https://www.linkedin.com/in/misy-antonin-jerry-853667278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><FaLinkedin size={24} className="text-2xl hover:text-gray-400" /></a>
-                        <a href="https://wa.me/+261322411494"><FaWhatsapp size={24} className="text-2xl hover:text-gray-400" /></a>
+                        <a href="https://github.com/AntoninJerry"><FaGithub size={24} className="text-2xl hover:text-orange-500" /></a>
+                        <a href="https://www.linkedin.com/in/misy-antonin-jerry-853667278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><FaLinkedin size={24} className="text-2xl hover:text-orange-500" /></a>
+                        <a href="https://wa.me/+261322411494"><FaWhatsapp size={24} className="text-2xl hover:text-orange-500" /></a>
                     </div>
                 </div>
                 <div className="lg:w-1/2 flex justify-start lg:justify-end mt-8 lg:mt-0">

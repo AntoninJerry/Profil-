@@ -9,36 +9,12 @@ import treez from '../assets/img/treez.png'
 
 const projects = [
   {
-    title: "Project Title 1",
-    description: "Description of the project goes here. It can be a brief overview of what the project entails.",
+    title: "Docteur K",
+    description: "Docteur K is the leading medical directory website where people from all over the US can find the nearest medical specialist that meets their healthcare needs.",
     image: gestionImage,
-    techno: "React js, Node js , Tailwind Css, Mysql.",
-    link: "https://example.com/project1",
+    techno: "React js, Node js , Tailwind Css",
+    link: "https://github.com/AntoninJerry/Docteur-K/tree/master",
     category: "web"
-  },
-  {
-    title: "Project Title 2",
-    description: "Description of the project goes here. It can be a brief overview of what the project entails.",
-    image: gestionImage,
-    techno: "",
-    link: "https://example.com/project2",
-    category: "design"
-  },
-  {
-    title: "Project Title 3",
-    description: "Description of the project goes here. It can be a brief overview of what the project entails.",
-    image: gestionImage,
-    techno: "",
-    link: "https://example.com/project3",
-    category: "web"
-  },
-  {
-    title: "Project Title 4",
-    description: "Description of the project goes here. It can be a brief overview of what the project entails.",
-    image: gestionImage,
-    techno: "",
-    link: "https://example.com/project4",
-    category: "design"
   },
   {
     title: "REGGI - Boom Boom Ciao ♫ Befiana Music ♫",
